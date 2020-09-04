@@ -1,0 +1,10 @@
+// http://localhost:3333 -> Rota
+// http://localhost:3333/contacts --> Recurso, o que vem depois da rota, ex 'contacts', 'users'
+// GET : Buscar ou listar uma informção
+// POST : Criar alguma nova informação
+// PUT: Atualizar uma informação existente
+// DELETE: Deletar uma informação existente
+
+// Corpo da requisição (Request Body): Dados para criação ou atualização de um registro
+// Route Params: Identificar qual recurso eu quero atualizar ou deletar
+// Query Params: Paginação, filtros, ordenação
